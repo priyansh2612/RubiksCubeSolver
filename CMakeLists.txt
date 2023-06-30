@@ -3,4 +3,4 @@ project(RubiksCubeSolver)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(RubiksCubeSolver main.cpp GenCube.cpp GenCube.h Cube3d.cpp Cube3d.h DFS.h BFS.h IDDFS.h)
+add_executable(RubiksCubeSolver main.cpp GenCube.cpp GenCube.h Cube3d.cpp Cube3d.h DFS.h BFS.h IDDFS.h PatternDatabases/NibbleArray.h)
