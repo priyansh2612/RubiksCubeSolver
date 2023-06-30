@@ -1,6 +1,5 @@
-//
-// Created by Dell on 05-06-2023.
-//
+
+
 #include<bits/stdc++.h>
 #include "GenCube.h"
 
@@ -68,3 +67,4 @@ public:
 };
 
 #endif //RUBIKSCUBESOLVER_BFS_H
+
